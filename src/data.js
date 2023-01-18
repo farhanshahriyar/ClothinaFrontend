@@ -25,18 +25,23 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      title: "SHIRT STYLE!",
+      img: "https://images.unsplash.com/photo-1526476148966-98bd039463ea",
+      title: "WHITE STYLE!",
     },
     {
       id: 2,
-      img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      title: "LOUNGEWEAR LOVE",
+      img: "https://images.unsplash.com/photo-1506464253090-7af30fe60a71",
+      title: "BLACK LOVE",
     },
     {
       id: 3,
-      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      title: "LIGHT JACKETS",
+      img: "https://images.unsplash.com/photo-1594656375376-64d56e2f3ed1",
+      title: "LIGHT HOODIE",
+    },
+    {
+      id: 4,
+      img: "https://images.unsplash.com/photo-1509946458702-4378df1e2560",
+      title: "DARK HOODIE",
     },
   ];
 
