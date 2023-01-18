@@ -48,34 +48,34 @@ export const sliderItems = [
   export const popularProducts = [
     {
       id:1,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+      img:"https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/322932399_878183083329615_4361465730109272752_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=g2rqLzKGPKYAX9K8OpU&tn=Bs0xVGlmYl0EpKYx&_nc_ht=scontent.fdac136-1.fna&oh=00_AfAq13achtHQI0ojeNUUQFmcOyPDxv5Cx7qTJ9nvDGJ6aw&oe=63CC43B1",
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/323132546_729674044929852_5970285333274585739_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=dXhEaPRi3qwAX-ryefI&tn=Bs0xVGlmYl0EpKYx&_nc_ht=scontent.fdac136-1.fna&oh=00_AfAUwoKkqzhoCW7BBkpTV5Pu6L7R2c1MZrfXn7--qb4HvQ&oe=63CD2FDA",
     },
     {
       id:3,
-      img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+      img:"https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/323008220_544683064383903_8653452945503629119_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tfIFD9y_M6kAX9EXHx1&tn=Bs0xVGlmYl0EpKYx&_nc_ht=scontent.fdac136-1.fna&oh=00_AfB6EhbBQj3A0QqayqHNqdZbNTQNDS2z4zJJZKprvrEpvw&oe=63CD044D",
     },
     {
       id:4,
-      img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      img:"https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/322711882_1219549388772229_2709324913410745869_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=16qKUkyuXcIAX_SeEk0&_nc_ht=scontent.fdac136-1.fna&oh=00_AfD1RRRzhpgxId0QkA02qHSOXP99oG1e5TW0GVuzmCEeDw&oe=63CD4BFF",
     },
     {
       id:5,
-      img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+      img:"https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/324078007_849153296372503_3357812551711691743_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=xAa-rWVaB6UAX9dVO2V&_nc_ht=scontent.fdac136-1.fna&oh=00_AfAVCc-Hp_O_JOI0Ur7MtEeHi6fq5pPRF9SxX4T8VxTISA&oe=63CC0AD5",
     },
     {
       id:6,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+      img:"https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/323902180_1318636502245615_279191657478191830_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=8U8b_2e_06gAX__MSD8&_nc_ht=scontent.fdac136-1.fna&oh=00_AfCIlXYxYhpyX5J0y-IGqV1e7LjriY0a-l88jXKhr7Qc8g&oe=63CDA201",
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/323449221_563503425299730_8385008006671067284_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=xgxwCVhex7QAX8Q6-ok&_nc_ht=scontent.fdac136-1.fna&oh=00_AfArydUPfGQFYJ_4jwGtu2HQrq0YPW-DlVEccOfoSO2qiQ&oe=63CD6022",
     },
     {
       id:8,
-      img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+      img:"https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/323877373_1607886309663164_5165197639010191606_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=wdah9LFmSa8AX8XM1Sw&_nc_ht=scontent.fdac136-1.fna&oh=00_AfDpQ6YC9OLPsl5dl-S0jueQnw-ZYoKOjz4L_2-KtYiQfg&oe=63CDBEBE",
     },
   ]
